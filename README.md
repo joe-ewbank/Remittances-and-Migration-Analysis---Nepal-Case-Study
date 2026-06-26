@@ -41,8 +41,8 @@ All data is retrieved from the **World Bank API** using the following indicators
 The findings suggest that migration may act as an informal mechanism of international development. Unlike foreign aid, remittances are private transfers that flow directly to households and can be used according to local needs and priorities.
 
 However, remittance dependence also carries risks:
-- **Economic vulnerability** — remittance inflows may fall if migrants lose employment in destination countries.
-- **Brain drain** — emigration of skilled workers can reduce domestic human capital in sectors such as healthcare, education and engineering.
+- **Economic vulnerability** - remittance inflows may fall if migrants lose employment in destination countries.
+- **Brain drain** - emigration of skilled workers can reduce domestic human capital in sectors such as healthcare, education and engineering.
 
 The findings therefore highlight only one aspect of migration's economic impact. A full assessment would need to weigh these costs against the financial benefits of remittances.
 
