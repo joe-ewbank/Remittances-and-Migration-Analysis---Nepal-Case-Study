@@ -33,7 +33,7 @@ In 2023, remittances substantially exceeded foreign aid across all four case stu
 ![Remittances Relative to Foreign Aid by Country (2023)](images/remittances_vs_foreign_aid_total.png)
 *Bar chart comparing total remittances received (blue) against foreign aid received (orange) in US$ billions for El Salvador, Honduras, Nepal and Tajikistan in 2023.*
 
-In absolute terms, Nepal received the largest volume of remittances at over US$10 billion, compared to just over US$1 billion in foreign aid, with El Salvador, Honduras and Tajikistan also showing large gaps between remittance and aid inflows.
+In 2023, remittances exceeded foreign aid by a factor of over 16 in both El Salvador and Honduras, making them the most remittance-dependent relative to aid among the four countries. Nepal and Tajikistan showed lower but still substantial ratios of approximately 9.
 
 ![Remittances vs Foreign Aid by Country (2023)](images/remittance_to_foreign_aid.png)
 *Bar chart showing the ratio of remittances to foreign aid for each country in 2023. A value of 16 means remittances were 16 times larger than foreign aid received.*
