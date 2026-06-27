@@ -28,15 +28,15 @@ All data is retrieved from the **World Bank API** using the following indicators
 
 ### Remittances vs Foreign Aid Across Countries (2023)
 
-In 2023, remittances substantially exceeded foreign aid across all four case study countries — El Salvador, Honduras, Nepal and Tajikistan. Nepal received the largest absolute volume of remittances at over US$10 billion, compared to just over US$1 billion in foreign aid.
-
-![Remittances vs Foreign Aid by Country (2023)](images/remittance_to_foreign_aid.png)
-*Bar chart comparing total remittances received (blue) against foreign aid received (orange) in US$ billions for El Salvador, Honduras, Nepal and Tajikistan in 2023.*
-
-In relative terms, remittances exceeded foreign aid by a factor of between 9 and 17 across all four countries. El Salvador and Honduras showed the highest ratios, with remittances over 16 times larger than aid inflows.
+In 2023, remittances substantially exceeded foreign aid across all four case study countries: El Salvador, Honduras, Nepal and Tajikistan. Nepal received the largest absolute volume of remittances at over US$10 billion, compared to just over US$1 billion in foreign aid.
 
 ![Remittances Relative to Foreign Aid by Country (2023)](images/remittances_vs_foreign_aid_total.png)
 *Bar chart showing the ratio of remittances to foreign aid for each country in 2023. A value of 16 means remittances were 16 times larger than foreign aid received.*
+
+In absolute terms, Nepal received the largest volume of remittances at over US$10 billion, compared to just over US$1 billion in foreign aid, with El Salvador, Honduras and Tajikistan also showing large gaps between remittance and aid inflows.
+
+![Remittances vs Foreign Aid by Country (2023)](images/remittance_to_foreign_aid.png)
+*Bar chart comparing total remittances received (blue) against foreign aid received (orange) in US$ billions for El Salvador, Honduras, Nepal and Tajikistan in 2023.*
 
 ---
 
@@ -47,7 +47,7 @@ Nepal provides a particularly clear example of the growing importance of remitta
 ![Nepal: Remittances Received (2000–2023)](images/nepal_remittances_received.png)
 *Line chart showing the total value of remittances received by Nepal in US$ billions over time. Remittances grew rapidly from near zero in the early 1990s to over US$11 billion by 2023.*
 
-Remittances have also grown as a share of Nepal's economy, rising from under 5% of GDP in the early 2000s to consistently above 20% in recent years — making Nepal one of the most remittance-dependent economies in the world.
+Remittances have also grown as a share of Nepal's economy, rising from under 5% of GDP in the early 2000s to consistently above 20% in recent years, making Nepal one of the most remittance-dependent economies in the world.
 
 ![Nepal: Remittances as % of GDP (2000–2023)](images/nepal_remittances_as_gdp.png)
 *Line chart showing remittances received by Nepal as a percentage of GDP. The sharp rise after 2001 reflects a rapid increase in labour migration.*
@@ -55,9 +55,9 @@ Remittances have also grown as a share of Nepal's economy, rising from under 5% 
 Compared directly with foreign aid, remittances have far outpaced official assistance. While foreign aid has remained relatively flat, remittances have grown more than tenfold over the same period.
 
 ![Nepal: Remittances vs Foreign Aid Over Time](images/nepal_remittances_vs_aid.png)
-*Line chart comparing the absolute value of remittances (blue) and foreign aid (orange) received by Nepal from the early 1990s to 2023. The gap between the two has widened significantly over time.*
+*Line chart comparing the absolute value of remittances (blue) and foreign aid (orange) received by Nepal from the early 1990s to 2023.*
 
-The ratio of remittances to foreign aid in Nepal crossed above 1 around 2001 — the point at which remittances first exceeded aid. By 2023, remittances were approximately 9 times larger than foreign aid, the highest ratio recorded in the data.
+Nepal's remittances first exceeded foreign aid around 2001, crossing the ratio of 1 for the first time. By 2023 remittances were approximately 9 times larger than aid, the highest ratio recorded in the data.
 
 ![Nepal: Remittances Relative to Foreign Aid Over Time](images/nepal_remittances_relative_to_aid.png)
 *Line chart showing the ratio of remittances to foreign aid in Nepal over time. The dashed line at 1.0 marks the point where remittances equal aid. Values above this line indicate remittances exceed aid.*
@@ -69,8 +69,8 @@ The ratio of remittances to foreign aid in Nepal crossed above 1 around 2001 —
 The findings suggest that migration may act as an informal mechanism of international development. Unlike foreign aid, remittances are private transfers that flow directly to households and can be used according to local needs and priorities.
 
 However, remittance dependence also carries risks:
-- **Economic vulnerability** — remittance inflows may fall if migrants lose employment in destination countries.
-- **Brain drain** — emigration of skilled workers can reduce domestic human capital in sectors such as healthcare, education and engineering.
+- **Economic vulnerability** - remittance inflows may fall if migrants lose employment in destination countries.
+- **Brain drain** - emigration of skilled workers can reduce domestic human capital in sectors such as healthcare, education and engineering.
 
 The findings therefore highlight only one aspect of migration's economic impact. A full assessment would need to weigh these costs against the financial benefits of remittances.
 
@@ -84,16 +84,16 @@ The evidence indicates that remittances are a significant source of external fin
 
 ## Further Research
 
-Future research could examine the wider economic effects of emigration by analysing indicators related to human capital and productivity — for example, whether countries with high skilled emigration experience slower GDP per capita growth, lower productivity, or reduced investment in healthcare and education.
+Future research could examine the wider economic effects of emigration by analysing indicators related to human capital and productivity, for example: whether countries with high skilled emigration experience slower GDP per capita growth, lower productivity, or reduced investment in healthcare and education.
 
 ---
 
 ## Technologies Used
 
 - **Python 3**
-- **pandas** — data manipulation and analysis
-- **requests** — accessing the World Bank API
-- **matplotlib** — data visualisation
+- **pandas** - data manipulation and analysis
+- **requests** - accessing the World Bank API
+- **matplotlib** - data visualisation
 
 ## Installation
 
